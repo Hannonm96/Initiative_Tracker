@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+@import url('https://fonts.googleapis.com/css?family=UnifrakturMaguntia|VT323');
+
+p {
+	font-family: 'VT323', monospace;
+	color: white;
+	font-size: 56px;
+	text-align: left;
+}
+
+button {
+	float: right;
+	padding: 5px;
+}
+
+body {
+	background-image: url(https://theinnergamer.net/wp-content/uploads/2017/03/what-is-dungeons-dragons.jpg);
+	background-color: transparent;
+}
